@@ -1,0 +1,16 @@
+# Binaries, object files
+*.obj
+*.elf
+*.ko
+*.o
+
+# Libraries
+*.a
+*.la
+*.lib
+*.lo
+
+# Misc
+*~
+src/examples/my
+
